@@ -1,4 +1,5 @@
 # Cisco Single-Area OSPFv2 Lab
+<img src="https://i.imgur.com/inpHi1i.png" height="80%" alt="[name of screenshot]" />
 
 ## Overview
 This project is a practical lab focused on configuring and verifying **Single-Area OSPFv2** on Cisco routers. The lab walks through foundational routing configuration using **R1, R2, and R3**, emphasizing OSPF concepts, optimization, and verifying DR/BDR roles and neighbor adjacencies.
